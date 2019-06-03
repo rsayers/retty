@@ -1,11 +1,12 @@
-<h1 align="center">Reddit Terminal Viewer (RTV)</h1>
+<h1 align="center">Reddit TTY Client (retty)</h1>
 
 <p align="center">
 A text-based interface (TUI) to view and interact with Reddit from your terminal.<br>
 </p>
 
 <p align="center">
-  <strong>This project is no longer being maintained, see <a href="https://github.com/michael-lazar/rtv/issues/696">here</a>.</strong><br>
+  <strong>This project is a fork of RTY which is no longer maintained, see <a href="https://github.com/michael-lazar/rtv/issues/696">here</a>.</strong><br>
+  <strong>In the near future, references to the RTV name will be replaced</strong>
 </p>
 
 <p align="center">
